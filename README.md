@@ -8,4 +8,4 @@ This project serves as a comprehensive template for building full-stack web appl
 
 For more information, please refer to the official documentation of the technologies used:
 
-[`Clerk Documentation`](https://go.clerk.com/O9JPZR5)
+[`Clerk Documentation`](https://go.clerk.com/fgJHKlt)
